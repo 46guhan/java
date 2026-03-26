@@ -1,0 +1,4 @@
+Run Command:
+
+1. javac -cp "floder_name\jar_file" file_floder_name\file_name.java
+2> java -cp "jar_floder_name\jar_file;file_floder_name" file_name
